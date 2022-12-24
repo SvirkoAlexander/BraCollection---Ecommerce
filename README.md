@@ -1,6 +1,6 @@
 ## Light Theme ☀️
 <p align="center">
-      <img src="fon.png" width="726">
+      <img src="bra1.png" width="726">
 </p>
 <br>
  
@@ -8,13 +8,30 @@
 
       
 <p align="center">
-      <img src="fontwo.png" width="726">
+      <img src="bra2.png" width="726">
+</p>
+
+## Main Theme
+
+      
+<p align="center">
+      <img src="bra3.png" width="726">
+</p>
+
+<p align="center">
+      <img src="bra4.png" width="726">
+</p>
+<p align="center">
+      <img src="bra5.png" width="726">
+</p>
+<p align="center">
+      <img src="bra6.png" width="726">
 </p>
 
 ## Other Devices 📱
 <p align="center">
-      <img src="ipone width.png" width="250">
-      <img src="ipad width.png" width="400">
+      <img src="iphone bra.png" width="250">
+      <img src="ipad bra.png" width="500">
 </p>
 
 
