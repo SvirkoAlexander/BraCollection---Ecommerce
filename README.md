@@ -48,7 +48,7 @@ For the title page when changing the view, I added a ccs filter to dynamically c
 ## View Work
 
 - 👀 [
-Просмотр работы](https://kseniart.netlify.app/)
+Просмотр работы](https://bracollection.netlify.app/)
 
 
 ## 💻 Developer
@@ -57,4 +57,4 @@ For the title page when changing the view, I added a ccs filter to dynamically c
 
 ## License 
 
-Project https://kseniart.netlify.app is distributed under the MIT License.
+Project https://bracollection.netlify.app is distributed under the MIT License.
