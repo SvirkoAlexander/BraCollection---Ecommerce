@@ -46,21 +46,20 @@
 
 ## Описание
 
-Создание и разработка полноценного сайта для художника из города Минска. Использование современных технологий веб-разработки. Смотрите другие мои работы!
+Создание и разработка полноценного сайта для магазина женского белья BraCollection. Использование современных технологий веб-разработки. Смотрите другие мои работы!
 
 ## Запросы клиента
 
-Клиент попросил изменить тему оформления сайта с дневного на ночной вид. Для плавной прокрутки сайта я использовал scrollreveal с пользовательскими настройками. Для продукта swiper, swiper-bundle, настроив его в соответствии с общим стилем сайта.
-Для титульного листа при смене вида я добавил фильтр ccs для динамического изменения цвета при переключении с дневного на ночной режим. Для заказа новой картины я использовал emailjs чтобы клиент мог легко принимать новые заказы.
+Клиент попросил изменить тему оформления сайта с дневного на ночной вид. Также при смене фона должна меняться титульная коллекция, для этого я задействовал параметр nth-child более подробно моджете ознакомиться в коде CSS. Для плавной прокрутки сайта я использовал scrollreveal с пользовательскими настройками. Для продукта swiper, swiper-bundle, настроив его в соответствии с общим стилем сайта.
+
 
 ## Description
 
-Creation and development of a full-fledged site for an artist from the city of Minsk. Using modern web development technologies. See my other works!
+Creation and development of a full-fledged website for the BraCollection lingerie store. Use of modern web development technologies. See my other works!
 
 ## Requests
 
-The client asked to change the theme of the site from day to night view. For smooth scrolling of the site, I used scrollreveal with custom settings. For the product swiper, swiper-bundle by customizing it to fit the overall style of the site.
-For the title page when changing the view, I added a ccs filter to dynamically change the color when switching from day to night mode. To order a new painting, I used emailjs so that the client can easily accept new orders.
+The client asked to change the theme of the site from day to night. Also, when changing the background, the title collection should change, for this I used the nth-child parameter in more detail in the CSS code. For smooth scrolling of the site, I used scrollreveal with custom settings. For the swiper product, swiper-bundle by configuring it to match the general style of the site.
 
 ## View Work
 
